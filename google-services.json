@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "371203405264",
+    "project_id": "denverbroncos-4ac24",
+    "storage_bucket": "denverbroncos-4ac24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371203405264:android:bb7d4e4480221a7f5075d5",
+        "android_client_info": {
+          "package_name": "com.example.denverbroncos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371203405264-olcm3efjbb0ud3mi4v5dbmpr52inu7c4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVYfK4bKkQlN0OePGq9MkLxx6BfL7nglI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371203405264-olcm3efjbb0ud3mi4v5dbmpr52inu7c4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
