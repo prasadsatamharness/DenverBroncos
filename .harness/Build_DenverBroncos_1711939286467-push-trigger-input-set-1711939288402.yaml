@@ -1,0 +1,14 @@
+inputSet:
+  name: Build_DenverBroncos_1711939286467-push-trigger-input-set
+  identifier: Build_DenverBroncos_1711939286467pushtriggerinputset
+  orgIdentifier: default
+  projectIdentifier: Demo_Project
+  pipeline:
+    identifier: Build_DenverBroncos_1711939286467
+    properties:
+      ci:
+        codebase:
+          build:
+            type: branch
+            spec:
+              branch: <+trigger.branch>
